@@ -1,6 +1,6 @@
 {
   "name": "@rokucommunity/bslib",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "RokuCommunity",
   "license": "MIT",
   "description": "The BrightScript runtime for the BrighterScript language",
