@@ -10,4 +10,3 @@ module.exports = {
     //load the contents of bslib.brs
     source: fs.readFileSync(path.join(__dirname, 'source', 'bslib.brs')).toString()
 };
-console.log(module.exports);
