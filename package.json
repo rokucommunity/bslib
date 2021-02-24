@@ -11,6 +11,7 @@
   "devDependencies": {
     "brighterscript": "^0.32.2"
   },
+  "main": "index.js",
   "files": [
     "source/**/*"
   ],
