@@ -1,5 +1,5 @@
 ' bslib: BrightScript runtime functions for the BrighterScript language
-' v0.1.0
+' v0.1.1
 
 '
 ' Convert a value into a string. For non-primitive values, this will return the type instead of its value in most cases.
