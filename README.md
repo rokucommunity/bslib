@@ -1,7 +1,7 @@
 # bslib
 The BrightScript runtime library used for [BrighterScript](https://github.com/rokucommunity/brighterscript).
 
-[![build status](https://img.shields.io/github/workflow/status/rokucommunity/bslib/build.svg?logo=github)](https://github.com/rokucommunity/bslib/actions?query=workflow%3Abuild)
+[![build status](https://img.shields.io/github/actions/workflow/status/rokucommunity/bslib/build.yml?branch=master&logo=github)](https://github.com/rokucommunity/bslib/actions?query=branch%3Amaster+workflow%3Abuild)
 [![monthly downloads](https://img.shields.io/npm/dm/@rokucommunity/bslib.svg?sanitize=true&logo=npm&logoColor=)](https://npmcharts.com/compare/@rokucommunity/bslib?minimal=true)
 [![npm version](https://img.shields.io/npm/v/@rokucommunity/bslib.svg?logo=npm)](https://www.npmjs.com/package/@rokucommunity/bslib)
 [![license](https://img.shields.io/github/license/rokucommunity/bslib.svg)](LICENSE)
